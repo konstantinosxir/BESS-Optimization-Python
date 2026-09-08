@@ -1,16 +1,15 @@
 # 🔋 BESS Optimization & Energy Arbitrage using Python
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python+-blue.svg)
 ![PuLP](https://img.shields.io/badge/Optimization-PuLP-orange.svg)
 ![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-green.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## 📌 Project Overview
 This repository contains a mathematical optimization and data analysis study focusing on the **Renewable Cannibalization Effect** and the financial viability of Battery Energy Storage Systems (BESS). 
 
 Using real hourly Day-Ahead Market (DAM) prices from ENTSO-E (Greece) and simulated energy production from a **5 MWp Solar PV plant**, this project develops algorithms to optimally dispatch a **3.84 MWh BESS**, maximizing annual revenue under a strict 3.50 MW grid export limit.
 
-> **Note:** The generation data (8760 hours) used in this optimization was generated via a detailed PVsyst simulation from a previous project. You can view the PVsyst design phase [here](LINK_ΣΤΟ_ΑΛΛΟ_REPO).
+> **Note:** The generation data (8760 hours) used in this optimization was generated via a detailed PVsyst simulation from a previous project. You can view the PVsyst design phase [here](https://github.com/konstantinosxir/PVsyst-5MWp-Solar-BESS-Study).
 
 ## ⚙️ Algorithms Developed
 
