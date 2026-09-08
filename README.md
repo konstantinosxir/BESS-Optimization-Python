@@ -15,9 +15,9 @@ Using real hourly Day-Ahead Market (DAM) prices from ENTSO-E (Greece) and simula
 
 To manage the charging/discharging cycles, three distinct strategies were modeled and compared:
 
-1. **Static Threshold Heuristic:** Charges when prices drop below 40 €/MWh and discharges when prices exceed 120 €/MWh.
+1. **Static Threshold:** Charges when prices drop below 40 €/MWh and discharges when prices exceed 120 €/MWh.
 2. **Smart Daily Heuristic (Dynamic):** Adapts daily to the DAM curve, finding the exact 2 cheapest hours to charge and 2 most expensive hours to discharge.
-3. **Linear Programming (LP) via PuLP:** Formulates the arbitrage strategy as a strict mathematical optimization problem (Simplex algorithm), solving for the absolute theoretical maximum profit considering SoC constraints, green charging rules, and grid limits.
+3. **Linear Programming (LP) via PuLP:** Formulates the arbitrage strategy as a strict mathematical optimization problem (Simplex algorithm), solving for the absolute theoretical maximum profit considering SoC constraints, green charging rules and grid limitations.
 
 ## 📊 Financial Results & Impact
 
