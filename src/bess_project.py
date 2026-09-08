@@ -202,7 +202,7 @@ print(f"3. Μπαταρία με Δυναμικό Αλγόριθμο (Smart): {r
 print("=" * 75)
 print(f"🧠 Αξία Ανάλυσης Δεδομένων (Διαφορά Στατικού-Δυναμικού): +{rev_dynamic - rev_static:,.0f} € !!!")
 
-!pip install pulp
+#pip install pulp
 
 import pulp
 import pandas as pd
