@@ -51,4 +51,4 @@ During sunny spring days, the simultaneous overproduction of solar energy crashe
 ## 👨‍💻 Author
 **Konstantinos Xirogiannis** 
 * Electrical & Computer Engineering, NTUA
-* Connect with me on [LinkedIn](LINK_ΤΟΥ_LINKEDIN_ΣΟΥ)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinosxirogiannis/)
