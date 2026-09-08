@@ -1,6 +1,6 @@
 # 🔋 BESS Optimization & Energy Arbitrage using Python
 
-![Python](https://img.shields.io/badge/Python+-blue.svg)
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![PuLP](https://img.shields.io/badge/Optimization-PuLP-orange.svg)
 ![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-green.svg)
 
